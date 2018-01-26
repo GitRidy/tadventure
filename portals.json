@@ -1,0 +1,57 @@
+{
+    "po_0001": {
+        "thing_id": "po_0001",
+        "name": "a yellow door",
+        "short_names": [
+            "door", "yellow door", "bedroom door", "north door"
+        ],
+        "descriptions": {
+            "looks": [
+                "It's a very yellow door."
+            ]
+        },
+        "room1_thing_id": "rm_0107",
+        "room2_thing_id": "rm_0207",
+        "states_unique": {
+        },
+        "qualities_unique": {
+            "lockable": true
+        }
+    },
+    "po_0008": {
+        "thing_id": "po_0008",
+        "name": "a glass door",
+        "short_names": [
+            "glass door", "east door", "e door"
+        ],
+        "descriptions": {
+            "looks": [
+                "It is a glass door. It has wavy ripples in the glass. Fancy."
+            ]
+        },
+        "room1_thing_id": "rm_0307",
+        "room2_thing_id": "rm_0306",
+        "states_unique": {
+        },
+        "qualities_unique": {
+        }
+    },
+    "po_0009": {
+        "thing_id": "po_0009",
+        "name": "a white door",
+        "short_names": [
+            "white door", "w door", "west door"
+        ],
+        "descriptions": {
+            "looks": [
+                "It is a white door. A very boring white door."
+            ]
+        },
+        "room1_thing_id": "rm_0308",
+        "room2_thing_id": "rm_0307",
+        "states_unique": {
+        },
+        "qualities_unique": {
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "fx_0002": {
+        "thing_id": "fx_0002",
+        "name": "a statue of Napoleon in the centre",
+        "short_names": [
+            "statue", "Napoleon"
+        ],
+        "descriptions": {
+            "looks": [
+                "It's a life-sized, white marble staute of the celebrated French Emperor Napoleon. He sports a smug expression of indifferent superiority. Perhaps he knows how expensive the statue is."
+            ]
+        },
+        "states_unique": {
+        },
+        "qualities_unique": {
+        }
+    },
+    "fx_0007": {
+        "thing_id": "fx_0007",
+        "name": "a bay window on the northern wall",
+        "short_names": [
+            "window", "baw window", "north window"
+        ],
+        "descriptions": {
+            "looks": [
+                "It is a lovely bay window with yellow sunlight streaming in."
+            ]
+        },
+        "states_unique": {
+        },
+        "qualities_unique": {
+        }
+    },
+    "fx_0009": {
+        "thing_id": "fx_0009",
+        "name": "a wall-mounted mirror",
+        "short_names": [
+            "mirror"
+        ],
+        "descriptions": {
+            "looks": [
+                "It's a floor to ceiling mirror fixed to the wall. It needs some windex, newspaper, and elbow grease. There's a curious person looking into it--not dashingly handsome, but fair. Oh, it's you! Now you're blushing."
+            ]
+        },
+        "states_unique": {
+        },
+        "qualities_unique": {
+        }
+    }
+}

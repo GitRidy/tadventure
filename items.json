@@ -1,0 +1,99 @@
+{
+    "it_0001": {
+        "thing_id": "it_0001",
+        "name": "a backpack",
+        "short_names": [
+            "backpack", "pack", "bag"
+        ],
+        "descriptions": {
+            "looks": [
+                "It's a dark grey backpack with red zipper, handle and straps. It's quite stylish."
+            ]
+        },
+        "states_unique": {
+            "fullness": 0.0
+        },
+        "qualities_unique": {
+            "is_vessel": true,
+            "openable": true,
+            "size_like": "jerrycan",
+            "weight_kg": 1.5
+        }
+    },
+    "it_0004": {
+        "thing_id": "it_0004",
+        "name": "two D cell batteries",
+        "short_names": [
+            "batteries", "cells"
+        ],
+        "descriptions": {
+            "looks": [
+                "These batteries look brand new."
+            ]
+        },
+        "states_unique": {
+            "charge": 1.0
+        },
+        "qualities_unique": {
+            "size_like": "apple",
+            "weight_kg": 0.2
+        }
+    },
+    "it_0014": {
+        "thing_id": "it_0014",
+        "name": "a fancy key",
+        "short_names": [
+            "key", "fancy key"
+        ],
+        "descriptions": {
+            "looks": [
+                "This is a fancy key, probably belonging to some kind of fancy lock."
+            ]
+        },
+        "states_unique": {
+        },
+        "qualities_unique": {
+            "can_lock": "po_0003",
+            "size_like": "golf ball",
+            "weight_kg": 0.01
+        }
+    },
+    "it_0011": {
+        "thing_id": "it_0011",
+        "name": "a claw-hammer",
+        "short_names": [
+            "hammer"
+        ],
+        "descriptions": {
+            "looks": [
+                "This is an ordinary capenter's claw hammer. It looks pretty new."
+            ]
+        },
+        "states_unique": {
+        },
+        "qualities_unique": {
+            "can_hammer": true,
+            "size_like": "rockmelon",
+            "weight_kg": 1.5
+        }
+    },
+    "it_0016": {
+        "thing_id": "it_0016",
+        "name": "a magnifying glass",
+        "short_names": [
+            "magnifying glass", "glass"
+        ],
+        "descriptions": {
+            "looks": [
+                "This is a magnifying glass with an ornately carved wooden handle."
+            ]
+        },
+        "states_unique": {
+        },
+        "qualities_unique": {
+            "can_magnify": true,
+            "size_like": "apple",
+            "weight_kg": 0.2
+        }
+    }
+}

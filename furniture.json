@@ -1,0 +1,59 @@
+{
+    "fr_0002": {
+        "thing_id": "fr_0002",
+        "name": "an old chest (painted mustard yellow) at the foot of the bed",
+        "short_names": [
+            "chest", "old chest", "trunk", "old trunk"
+        ],
+        "descriptions": {
+            "looks": [
+                "It looks like an old oriental chest, with ornate carvings in the side. There are elephants and flowers--probably marigolds. The catch looks very rusty."
+            ]
+        },
+        "states_unique": {
+        },
+        "qualities_unique": {
+            "openable": true,
+            "lockable": true,
+            "size_like": "exercise ball",
+            "weight_kg": 40.0
+        }
+    },
+    "fr_0003": {
+        "thing_id": "fr_0003",
+        "name": "a huge poster bed",
+        "short_names": [
+            "bed", "poster bed"
+        ],
+        "descriptions": {
+            "looks": [
+                "It is a large, yellow, king-sized poster bed draped with a sheer, pale yellow veil. It looks wonderfully inviting, but you realise if you sleep here, you may miss something important--The air has a yellowish whiff of mystery in it."
+            ]
+        },
+        "states_unique": {
+        },
+        "qualities_unique": {
+            "size_like": "fridge",
+            "weight_kg": 200.0
+        }
+    },
+    "fr_0010": {
+        "thing_id": "fr_0010",
+        "name": "a yellow, antique-looking tallboy against the wall",
+        "short_names": [
+            "tallboy", "dresser"
+        ],
+        "descriptions": {
+            "looks": [
+                "This is a large, very old looking tallboy. It's painted yellow and has something on it."
+            ]
+        },
+        "states_unique": {
+        },
+        "qualities_unique": {
+            "openable": true,
+            "size_like": "wheely bin",
+            "weight_kg": 80.0
+        }
+    }
+}

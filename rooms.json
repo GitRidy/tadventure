@@ -1,0 +1,177 @@
+{
+    "rm_0101": {
+        "thing_id": "rm_0101",
+        "name": "a",
+        "short_names": [
+            ""
+        ],
+        "descriptions": {
+            "looks": [
+                "You are in ."
+            ],
+            "sounds": [
+                "You hear ."
+            ]
+        },
+        "states_unique": {
+        },
+        "qualities_unique": {
+        }
+    },
+    "rm_0107": {
+        "thing_id": "rm_0107",
+        "name": "a yellow bedroom",
+        "short_names": [
+            "bedroom"
+        ],
+        "descriptions": {
+            "looks": [
+                "You are in a powerfully yellow bedroom. The walls are yellow, the carpet is brown (which is dark yellow), and the ceiling is beige (which is light yellow). Yellow sunbeams stream cheerily across the room. This is quite possibly the most vibrant and uplifting space you've ever been in! It's a strange feeling, but good. 'How is one supposed to sleep in here?' you ask yourself. Then you remember the part about it being dark at night..."
+            ],
+            "sounds": [
+                "You hear the sounds of birds outside. Probably canaries."
+            ]
+        },
+        "states_unique": {
+        },
+        "qualities_unique": {
+        }
+    },
+    "rm_0204": {
+        "thing_id": "rm_0204",
+        "name": "a study",
+        "short_names": [
+            "study",
+            "office"
+        ],
+        "descriptions": {
+            "looks": [
+                "You're in a dark study. A pencil-thin shaft of light streams through clumsily shut curtains. As your eyes adjust you make out a desk and shelves of books.",
+                "You see a generously-sized study. Bookshelves brimming with ancient-looking books line three of the  walls. On the eastern wall there is a fireplace and, above it, an unusually high mantelpiece. A film of dust covers everything. It's musty and... dark."
+            ],
+            "sounds": [
+                "It's quiet in here.",
+                "It's nice and quiet in here."
+            ]
+        },
+        "states_unique": {
+        },
+        "qualities_unique": {
+        }
+    },
+    "rm_0207": {
+        "thing_id": "rm_0207",
+        "name": "the north end of a large atrium",
+        "short_names": [
+            "atrium", "atrium north", "lobby", "lobby north"
+        ],
+        "descriptions": {
+            "looks": [
+                "You are at the north end of a large atrium. A huge skylight runs the length of the room. The floors are of bright, polished marble. This place feels expensive, yet sparse."
+            ],
+            "sounds": [
+                "You hear not much at all. A single-engine aircraft flying overhead, perhaps?"
+            ]
+        },
+        "states_unique": {
+        },
+        "qualities_unique": {
+        }
+    },
+    "rm_0304": {
+        "thing_id": "rm_0304",
+        "name": "a sitting room",
+        "short_names": [
+            "sitting room", "lounge", "sitting", "loungeroom", "lounge room"
+        ],
+        "descriptions": {
+            "looks": [
+                "You are in a sitting room with thick, a woolly carpet on front of a dark leather chesterfield couch. Beside it is a small, rustic-looking coffee table. It's odd that no one is around."
+            ],
+            "sounds": [
+                "You hear muffled piano music coming from somewhere. Bach?"
+            ]
+        },
+        "states_unique": {
+        },
+        "qualities_unique": {
+        }
+    },
+    "rm_0305": {
+        "thing_id": "rm_0305",
+        "name": "a short hallway",
+        "short_names": [
+            "hall", "hallway", "corridor"
+        ],
+        "descriptions": {
+            "looks": [
+                "You are in a short hallway. There is a shut door at the west end. It has a small sign on it."
+            ],
+            "sounds": [
+                "You hear nothing much."
+            ]
+        },
+        "states_unique": {
+        },
+        "qualities_unique": {
+        }
+    },
+    "rm_0306": {
+        "thing_id": "rm_0306",
+        "name": "a dining room",
+        "short_names": [
+            "dining room", "dining"
+        ],
+        "descriptions": {
+            "looks": [
+                "You are in long dining room containing a narrow and oddly long dining table. There are only two chairs here, one at either end. A vase of white flowers stands on the table. Your tummy grumbles."
+            ],
+            "sounds": [
+                "You hear nothing much."
+            ]
+        },
+        "states_unique": {
+        },
+        "qualities_unique": {
+        }
+    },
+    "rm_0307": {
+        "thing_id": "rm_0307",
+        "name": "the centre of a large atrium",
+        "short_names": [
+            "atrium", "atrium centre", "lobby", "lobby centre"
+        ],
+        "descriptions": {
+            "looks": [
+                "You stand in the centre of a large atrium. A huge skylight runs the length of the room. The floors are of bright, polished marble. A life-sized marble statue of Napolean is beside you. He seems like a pretty confident guy. Pretty dead, though. Oddly enough, there is a hammer on the floor. This place feels expensive, yet sparse. And a little odd--who leaves a hammer beside a statue in a marble-floored atrium?"
+            ],
+            "sounds": [
+                "You hear nothing much."
+            ]
+        },
+        "states_unique": {
+        },
+        "qualities_unique": {
+        }
+    },
+    "rm_0308": {
+        "thing_id": "rm_0308",
+        "name": "a garage",
+        "short_names": [
+            "garage"
+        ],
+        "descriptions": {
+            "looks": [
+                "You find yourself in a rather messy garage. As all respectable garages, this one has a workbench and shelves. This place feels wonderfully aromatic: petrol, sawdust, and paint. It's the perfect retreat from... statues and marble!",
+                "You find yourself in a garage. It's messy."
+            ],
+            "sounds": [
+                "You hear AM talk-back radio playing from the bench. They are discussing something serious. Amendments to financial regulation legislation in the superannuation industry? Humbug!"
+            ]
+        },
+        "states_unique": {
+        },
+        "qualities_unique": {
+        }
+    }
+}
